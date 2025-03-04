@@ -7,6 +7,8 @@
 - 🌱 Studying Data Structures and Algorithms.
 - 👯 Open to internships and collaborating on open source projects.
 - 🗝️ I like to organize and take lead on projects and events.
+- 🎨 I enjoy UI/UX design.
+- - 🤔 Always open to networking!
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=JayChavan-23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

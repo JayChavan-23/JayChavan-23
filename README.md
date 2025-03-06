@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20Algorithms%20|%20C++%20;Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 AI Research Assistant at the Australian Institute of Machine Learning.
 - 🌱 Studying Data Structures and Algorithms.
 - 👯 Open to internships and collaborating on open source projects.
 - 🗝️ I like to organize and take lead on projects and events.
